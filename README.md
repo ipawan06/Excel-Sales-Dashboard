@@ -21,6 +21,16 @@ This project demonstrates how Excel can be used for business analytics by buildi
 - Top 20% of products contributed ~80% of sales revenue  
 - Regional differences highlight expansion opportunities  
 
+### 🔹 Sample Visuals
+#### Avg Income per Purchase
+![Avg Income](docs/Screenshot_Income.png)
+
+#### Customer Commute
+![Customer Commute](docs/Screenshot_Commute.png)
+
+#### Full Dashboard
+![Bike Sales Dashboard](docs/Screenshot_Dashboard.png)
+
 ## 🚀 Results
 - Delivered a **self-service Excel dashboard** for business stakeholders  
 - Improved reporting efficiency using pivot automation  
@@ -28,9 +38,9 @@ This project demonstrates how Excel can be used for business analytics by buildi
 
 ## 📂 Files
 - `data/Sales.csv` → Raw dataset  
-- `data/Excel Project.xlsx` → Processed dashboard & analysis  
-- `docs/Sales_Dashboard_Presentation.pptx` → Project presentation  
-
+- `data/Excel_Sales_Dashboard.xlsx` → Processed dashboard & analysis  
+- `docs/Excel_Sales_Dashboard_Presentation.pptx` → Project presentation  
+- `docs/` → Dashboard screenshots  
 
 ---
 
